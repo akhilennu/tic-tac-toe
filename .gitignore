@@ -1,0 +1,50 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Built files
+/build
+/dist
+
+# Local development files
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor specific files
+.vscode
+.idea
+*.iml
+
+# macOS specific files
+.DS_Store
+
+# Compiled output for Typescript
+*.js
+*.jsx
+*.tsx
+
+# Cache and temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.pnp
+pnp.js
+yarn.lock
+jest-haste-map.json
+*.seed
+*.pid
+*.seed
+*.log
+*.status
+*.result
+
