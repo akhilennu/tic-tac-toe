@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is Tic-Tac-Toe with Minimax algorithm (Vs Computer)
+This is Tic-Tac-Toe with Minimax algorithm (Vs Computer).\
 The project is hosted [here](https://akhilennu.github.io/tic-tac-toe)
 
 # Getting Started with Create React App
