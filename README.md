@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 This is Tic-Tac-Toe with Minimax algorithm (Vs Computer).\
-I have already implemented minimax for Tic-Tac-Toe [here](https://github.com/akhilennu/cs50ai)
+I have already implemented minimax for Tic-Tac-Toe [here](https://github.com/akhilennu/cs50ai)\
 The project is hosted [here](https://akhilennu.github.io/tic-tac-toe)
 
 # Getting Started with Create React App
