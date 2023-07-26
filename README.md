@@ -1,3 +1,6 @@
+# Tic-Tac-Toe with Minimax algorithm (Vs Computer)
+[Click Here](https://akhilennu.github.io/tic-tac-toe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
