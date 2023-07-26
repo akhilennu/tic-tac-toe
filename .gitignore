@@ -26,11 +26,6 @@ yarn-error.log*
 # macOS specific files
 .DS_Store
 
-# Compiled output for Typescript
-*.js
-*.jsx
-*.tsx
-
 # Cache and temp files
 *.log
 npm-debug.log*
