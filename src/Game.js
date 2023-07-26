@@ -1,17 +1,17 @@
 import React, { useState, useRef } from 'react';
 import Board from './Board';
-import './Game.css'; 
+import './Game.css';
 
 const Game = () => {
     const [selectedMode, setSelectedMode] = useState(null);
     const [isGameCompleted, setIsGameCompleted] = useState(false);
-    const boardRef = useRef(null); 
+    const boardRef = useRef(null);
 
     const handleTwoPlayersClick = () => {
         setSelectedMode('twoPlayers');
         setIsGameCompleted(false);
         if (boardRef.current) {
-            boardRef.current.initialize(); 
+            boardRef.current.initialize();
         }
     };
 
@@ -19,7 +19,7 @@ const Game = () => {
         setSelectedMode('computer');
         setIsGameCompleted(false);
         if (boardRef.current) {
-            boardRef.current.initialize(); 
+            boardRef.current.initialize();
         }
     };
 
